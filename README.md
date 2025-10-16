@@ -15,3 +15,9 @@
 
 - ⛂ Peça preta rauan
 - ⛀ Peça branca lucas
+
+# PEÇAS PERDIDAS
+## TOTAL DE PEÇAS:24
+RAUAN:  
+LUCAS:
+
