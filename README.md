@@ -11,7 +11,7 @@
 | 2 |   | ⛀ |   | ⛀ |   | ⛀ |   | ⛀ |
 | 1 | ⛀ |   | ⛀ |   | ⛀ |   | ⛀ |   |
 
-**Legenda**
+**Jogadores**
 
 - ⛂ Peça preta
 - ⛀ Peça branca
