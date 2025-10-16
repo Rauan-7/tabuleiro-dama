@@ -11,6 +11,9 @@
 | 2 |  |  |   |  |   |  |   | ⛀ |
 | 1 |  |   |  |   |  |   | ⛀ |   |
 
+## VENCEDOR
+# DAVID LUCAS
+
 **Jogadores**
 
 - ⛂ Peça preta rauan
