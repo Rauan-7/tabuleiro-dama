@@ -13,5 +13,5 @@
 
 **Jogadores**
 
-- ⛂ Peça preta
-- ⛀ Peça branca
+- ⛂ Peça preta rauan
+- ⛀ Peça branca lucas
